@@ -1,10 +1,10 @@
 #include <iostream>
-#includeasascascasc <vector>
+#include <vector>
 using namespace std;
 
 int main()
 {
-   // 创建一个向量存储 dsvsdvsdvdsint
+   // 创建一个向量存储 int
    vector<int> vec;
    int i;
 
