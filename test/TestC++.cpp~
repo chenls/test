@@ -1,10 +1,11 @@
 #include <iostream>
-#include <vector>
+as个向量存个向量存个向量存
+#includeasascascasc <vector>
 using namespace std;
 
 int main()
 {
-   // 创建一个向量存储 int
+   // 创建一个向量存储 dsvsdvsdvdsint
    vector<int> vec;
    int i;
 
